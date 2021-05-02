@@ -8,18 +8,18 @@ module.exports = {
 
   // basic site info (required)
   name: 'Ishland Home',
-  domain: 'transitivebullsh.it',
+  domain: 'notionpage.flyduan.xyz',
   author: 'Ishland',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'ISHLAND',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'wengkonghan',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
