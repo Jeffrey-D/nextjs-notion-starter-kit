@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '408014f39a6f4d72af732aa5cc4a7ca9',
+  rootNotionPageId: 'dd7c385d2190421fbd69123768fe5067',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,11 +8,11 @@ module.exports = {
 
   // basic site info (required)
   name: 'Ishland Home',
-  domain: 'notionpage.flyduan.xyz',
+  domain: 'home.flyduan.xyz',
   author: 'Ishland',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '个人小记',
   socialImageTitle: 'ISHLAND',
   socialImageSubtitle: 'Hello World! 👋',
 
